@@ -7,8 +7,3 @@ On my Github, you can find a variety of projects that showcase my abilities and 
 When I'm not coding, I enjoy playing ukulele, hiking and cooking. I am actively posting optimal leetcode solutions in python though a public repository and believe in giving back to the tech community.
 
 Feel free to check out my GitHub repositories to see some of my recent projects, and don't hesitate to reach out if you have any questions or would like to collaborate on a project!
-
-My favorite tools and technologies ⚙️
-Tools and technologies that I have worked with and am interested in
-
-python logo cplusplus logo java logo javascript logo html5 logo css3 logo bash logo linux logo react logo bootstrap logo amazonwebservices logo arduino logo git logo heroku logo jupyter logo nodejs logo pandas logo postgresql logo
